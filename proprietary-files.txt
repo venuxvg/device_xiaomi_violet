@@ -1304,6 +1304,10 @@ vendor/lib64/libcdsprpc.so
 vendor/bin/time_daemon|45dd957e6f5922b0069ef691df3aef80d6f944f0
 vendor/lib64/libtime_genoff.so|c3d21c3b04cd7da6233685dac3fd5f0acdbf23be
 
+# Thermal - hardware
+vendor/lib/hw/thermal.sm6150.so
+vendor/lib64/hw/thermal.sm6150.so
+
 # TUI - from Redmi K20 davinci-user 9 PKQ1.190302.001 V10.3.6.0.PFJCNXM release-keys
 vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|4196393674f406412cacb52138c335d8c220675a
 vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e1579374f001c94588fae7835a12ffc
